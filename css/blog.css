@@ -34,8 +34,8 @@ h3 {
   margin-top: 20px;
 }
 
-header p{
-  padding-bottom: 10px;
+header .header-para{
+  padding-bottom: 15px;
 }
 
 /* TEXT EMPHASIS */
