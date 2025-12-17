@@ -34,6 +34,10 @@ h3 {
   margin-top: 20px;
 }
 
+header p{
+  margin-bottom: 10px;
+}
+
 /* TEXT EMPHASIS */
 p strong {
   color: #000;
