@@ -173,6 +173,7 @@ a button:hover{
 
 footer p{
   display: flex;
+  flex-direction: column;
   justify-content: center;
   color: black;
   font-family: "Bitter", serif;
