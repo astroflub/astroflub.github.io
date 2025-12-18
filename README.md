@@ -1,4 +1,3 @@
-# astroflub.github.io
 # 👽 AstroFlub: The Idiot's Guide to the Galaxy 🛸
 
 Welcome to the official repository for **AstroFlub**, a digital corner of the internet dedicated to investigating the universe's most pressing, yet utterly unimportant, mysteries. 
@@ -12,7 +11,8 @@ This is a static-site blog hosted on GitHub Pages. It’s where I document my hi
 
 ### Current Investigations:
 * **[The Great Galactic Sock Mystery](https://astroflub.github.io/blog/alien-socks-mystery.html)**: Are UFOs just balled-up laundry? (Spoiler: Yes).
-* **Ketchup Packets**: Why can't intergalactic travelers open them?
+* **[🔬 RESEARCH - MICROWAVING PIZZA 🍕 IN ORBIT: The Snack that Nearly Sank a Space Station 🚀](https://astroflub.github.io/blog/orbital-pizza-tragedy.html)**: The Truth: The Pizza is an Agent of Chaos
+
 * **More coming soon...** as soon as my dryer reaches warp speed.
 
 ---
