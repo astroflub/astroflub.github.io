@@ -113,8 +113,9 @@
  }
  
  /* FOOTER STYLES */
- footer p {
+ footer p, footer p a {
    display: flex;
+   flex-direction: column;
    justify-content: center;
    color: black;
    font-family: "Bitter", serif;
