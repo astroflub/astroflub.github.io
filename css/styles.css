@@ -183,6 +183,10 @@ footer p{
   text-align: center;
 }
 
+footer p a{
+  color: black;
+}
+
 .articles{
   display: grid;
   gap: 20px;
