@@ -1,3 +1,5 @@
+`![GitHub license](https://img.shields.io/github/license/astroflub/astroflub.github.io) ![GitHub stars](https://img.shields.io/github/stars/astroflub/astroflub.github.io)`
+
 # 👽 AstroFlub: The Idiot's Guide to the Galaxy 🛸
 
 Welcome to the official repository for **AstroFlub**, a digital corner of the internet dedicated to investigating the universe's most pressing, yet utterly unimportant, mysteries. 
