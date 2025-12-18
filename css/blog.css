@@ -113,7 +113,7 @@
  }
  
  /* FOOTER STYLES */
- footer p, footer p a {
+ footer p {
    display: flex;
    flex-direction: column;
    justify-content: center;
@@ -124,3 +124,7 @@
    padding: 20px;
    text-align: center;
  }
+
+footer p a{
+   color: black;
+}
