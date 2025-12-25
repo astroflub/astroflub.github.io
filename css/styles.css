@@ -201,3 +201,10 @@ footer p a{
 .image-section img{
   width: 100%;
 }
+
+@media screen and (min-width: 768px){
+  .articles{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
